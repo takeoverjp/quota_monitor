@@ -1,3 +1,4 @@
 *~
 *.o
-/quota_monitor
+/quota_monitor_raw
+/quota_monitor_libnl
